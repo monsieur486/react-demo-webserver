@@ -1,0 +1,7 @@
+{
+  "name": "react-demo-webserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "monsieur486 <monsieur486@gmail.com>",
+  "license": "MIT"
+}
